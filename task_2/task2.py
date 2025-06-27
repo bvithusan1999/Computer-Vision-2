@@ -1,3 +1,5 @@
+# File: task_2/task2.py
+
 import cv2
 import numpy as np
 

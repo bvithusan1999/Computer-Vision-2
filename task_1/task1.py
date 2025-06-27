@@ -1,3 +1,5 @@
+# File: task_1/task1.py
+
 import cv2
 import numpy as np
 from skimage import util, filters
